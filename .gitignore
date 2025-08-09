@@ -1,0 +1,12 @@
+# Ignore the data folder containing the dataset
+data/
+
+# Ignore the models folder containing the saved model
+models/
+
+# Ignore the Python virtual environment folder
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
